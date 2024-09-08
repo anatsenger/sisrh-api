@@ -1,0 +1,8 @@
+com\sisrh\banco\Banco.class
+com\sisrh\rest\EmpregadoRest$1.class
+com\sisrh\dto\Empregado.class
+com\sisrh\dto\Solicitacao.class
+com\sisrh\rest\SolicitacaoRest.class
+com\sisrh\rest\AppRest.class
+com\sisrh\rest\EmpregadoRest.class
+com\sisrh\rest\SistemaRest.class
